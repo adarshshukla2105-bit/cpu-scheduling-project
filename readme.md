@@ -10,8 +10,8 @@ It demonstrates how different CPU scheduling algorithms work and compares their 
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | Abhiranjan Kumar |
-| **Registration Number** | 24MIP10128 |
+| **Student Name** | Adarsh Shukla |
+| **Registration Number** | 24BEY10152 |
 | **Course** | Operating System |
 | **Chosen Software** | C++ |
 
@@ -149,7 +149,7 @@ To understand the working of CPU scheduling algorithms and analyze their perform
 
 ## 👨‍💻 Author
 
-**Abhiranjan Kumar**
+**Adarsh Shukla**
 
 ---
 
